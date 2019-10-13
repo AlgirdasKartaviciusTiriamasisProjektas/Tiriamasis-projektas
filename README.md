@@ -25,7 +25,11 @@ Darbo tikslas yra pramoninės gamybos gaminių defektų identifikacija bei tinka
 1. Pirmas semesstras
    1. Projekto informacinė sistema (15% pažymio) Tiriamasis projektas 1 - spalio 15 d.   
    1. Projektavimo metodologijos ir technologijų analizė (35% pažymio) Tiriamasis projektas 1 - lapkričio 15 d.
-   1. 	Projekto paraiška (30% pažymio)Tiriamasis projektas 1 - gruodžio 1 d. 
-   1. 	Projektavimo planas (20% pažymio) Tiriamasis projektas 1 - gruodžio 20 d. 
+   1. Projekto paraiška (30% pažymio)Tiriamasis projektas 1 - gruodžio 1 d. 
+   1. Projektavimo planas (20% pažymio) Tiriamasis projektas 1 - gruodžio 20 d. 
 1. Antras semestras
+   1. Reikalavimų specifikavimas (projekto ataskaita, 25% paž.)Tiriamasis projektas 2 - kovo 10 d.   
+   1. Architektūros specifikavimas (projekto ataskaita, 35% paž.)Tiriamasis projektas 2 - balandžio 15 d.
+   1. Darbų  viešo pristatymo medžiagos paruošimas (projekto ataskaita, 10% paž.)Tiriamasis projektas 2 - gegužės 03 d. 
+   1. Prototipas 1 (inžinerinis projektas, 30% paž.) Tiriamasis projektas 2 - gegužės 17 d. 
 1. Trečias semestras
