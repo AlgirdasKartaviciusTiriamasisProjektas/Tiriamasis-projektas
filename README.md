@@ -19,3 +19,13 @@ Darbo tikslas yra pramoninės gamybos gaminių defektų identifikacija bei tinka
 *	Python programavimo kalba
 *	Mašininio mokymosi bibliotekos
 *	Vaizdo apdorojimo bibliotekos
+
+## Magistrinio projekto įgyvendinimo akademinis grafikas
+
+1. Pirmas semesstras
+   1. Projekto informacinė sistema (15% pažymio) Tiriamasis projektas 1 - spalio 15 d.   
+   1. Projektavimo metodologijos ir technologijų analizė (35% pažymio) Tiriamasis projektas 1 - lapkričio 15 d.
+   1. 	Projekto paraiška (30% pažymio)Tiriamasis projektas 1 - gruodžio 1 d. 
+   1. 	Projektavimo planas (20% pažymio) Tiriamasis projektas 1 - gruodžio 20 d. 
+1. Antras semestras
+1. Trečias semestras
