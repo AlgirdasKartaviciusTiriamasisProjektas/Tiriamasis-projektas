@@ -33,3 +33,12 @@ Darbo tikslas yra pramoninės gamybos gaminių defektų identifikacija bei tinka
    1. Darbų  viešo pristatymo medžiagos paruošimas (projekto ataskaita, 10% paž.)Tiriamasis projektas 2 - gegužės 03 d. 
    1. Prototipas 1 (inžinerinis projektas, 30% paž.) Tiriamasis projektas 2 - gegužės 17 d. 
 1. Trečias semestras
+   1.	Magistrinio projekto programų sistemos testavimo planavimas ( vertinama ataskaita 15 % pažymio) T120M010 - spalio 1 d.   
+   1. Inžinerinis projektas- Programų sistemos prototipas 30%, lapkričio 3- 15 d. (Tiriamasis projektas 3) - lapkričio 3 - 15 d.
+   1. Testavimo realizavimas ( vertinamas inžinerinis projektas 35% pažymio) (T120M010) - lapkričio 15 d. 
+   1. Vartotojo dokumentacija ir licencija ( vertinama projekto ataskaita 20% pažymio) T120M010 - gruodžio 5 d.
+   1.	Inžinerinis projektas- Programų sistemos įdiegimas - Vertina magistrinio projekto vadovas 20% , Tiriamasis projektas 3 - gruodžio 23 d.   
+   1. Projekto ataskaita- Projekto pilna dokumentacija +  projekto kokybės įvertinimas  10% , Tiriamasis projektas 3 - sausio 15 d.
+   1. Programų sistemos pristatymo ir reklamos parengimas - (gynimo komisijos vertinimas 25% pažymio) T120M010 - sausio 23 d. 
+   1. 	Programų sistemos gynimas  - (gynimo komisijos vertinimas 25% pažymio) Tiriamasis projektas 3 - sausio 25 d. 
+
